@@ -10,7 +10,12 @@ CSS
 JavaScript
 IndexedDB
 
-​Deployed link:​
+![Screenshot]("C:\Users\danja\OneDrive\Pictures\Screenshots\Screenshot (3).png")
+![Screenshot](""C:\Users\danja\OneDrive\Pictures\Screenshots\Screenshot (4).png"")
+
+
+
+​Deployed link:​ 
 
 Authors
 ​
