@@ -10,8 +10,8 @@ CSS
 JavaScript
 IndexedDB
 
-![Screenshot]("C:\Users\danja\OneDrive\Pictures\Screenshots\Screenshot (3).png")
-![Screenshot](""C:\Users\danja\OneDrive\Pictures\Screenshots\Screenshot (4).png"")
+<img src="Text-Editor\client\Screenshot (3).png" alt="Alt text" title="Home Screen">
+<img src="Text-Editor\client\Screenshot (4).png" alt="Alt text" title="Notes Page">
 
 
 
