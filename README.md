@@ -10,8 +10,8 @@ CSS
 JavaScript
 IndexedDB
 
-<img src="Text-Editor\client\Screenshot (3).png" alt="Alt text" title="Home Screen">
-<img src="Text-Editor\client\Screenshot (4).png" alt="Alt text" title="Notes Page">
+<img src="client\Screenshot (3).png" alt="Alt text" title="Home Screen">
+<img src="client\Screenshot (4).png" alt="Alt text" title="Notes Page">
 
 
 
